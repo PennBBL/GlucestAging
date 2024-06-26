@@ -1,0 +1,99 @@
+bblid,sessionid,group,gender,race,Hemi,CEST,Vol
+21583,11728,HOA,Female,White,Left,9.936718,880
+21593,11736,HOA,Male,White,Left,9.06886,910
+21603,11741,HOA,Female,White,Left,8.145569,856
+21643,11763,HOA,Female,White,Left,8.832376,651
+21646,11765,HOA,Male,White,Left,9.220972,501
+21650,11769,HOA,Female,White,Left,8.165599,942
+21674,11983,HOA,Female,White,Left,7.519376,946
+21705,11789,HOA,Female,White,Left,9.364914,901
+21870,11832,HOA,Male,White,Left,7.303873,866
+21885,11836,HOA,Female,Black or African American,Left,9.180365,690
+21907,11839,HOA,Female,White,Left,6.479219,935
+22044,11883,HOA,Male,White,Left,9.096236,778
+22051,11889,HOA,Female,Black or African American,Left,7.856754,675
+22194,11926,HOA,Female,White,Left,8.037236,946
+22239,11942,HOA,Female,Black or African American,Left,8.56502,702
+22263,11939,HOA,Female,White,Left,8.424377,821
+22362,11954,HOA,Female,White,Left,7.793765,816
+22386,11961,HOA,Female,White,Left,7.731276,779
+22387,11962,HOA,Female,White,Left,10.093675,1046
+22444,11968,HOA,Female,White,Left,9.002904,562
+22445,11969,HOA,Male,White,Left,9.211126,685
+22503,12000,HOA,Male,White,Left,7.561112,864
+22524,12007,HOA,Female,White,Left,10.423706,821
+22791,12084,HOA,Female,Black or African American,Left,7.958865,607
+23133,12163,HOA,Female,Black or African American,Left,9.075734,757
+23145,12169,HOA,Female,Black or African American,Left,6.690254,479
+23222,12225,HOA,Male,White,Left,7.668853,566
+20182,12006,HYA,Female,Hawaiian/Pacific Islander,Left,6.047999,749
+20303,12177,HYA,Male,White,Left,7.987898,821
+20504,12018,HYA,Female,Asian,Left,8.401366,645
+20523,12149,HYA,Female,White,Left,8.870366,1004
+20871,12010,HYA,Male,More than one race,Left,9.287255,586
+22036,12086,HYA,Female,More than one race,Left,8.786246,958
+22164,12196,HYA,Female,Asian,Left,8.51028,946
+22192,12090,HYA,Female,Asian,Left,8.189668,954
+22413,11982,HYA,Female,Black or African American,Left,7.415166,942
+22475,12013,HYA,Female,Black or African American,Left,7.774872,871
+22668,12181,HYA,Male,Asian,Left,8.618041,1059
+23165,12216,HYA,Male,Asian,Left,8.594242,1006
+23166,12280,HYA,Female,Asian,Left,6.739595,817
+85162,11958,HYA,Female,White,Left,7.754912,1012
+87842,12174,HYA,Male,White,Left,8.090236,953
+94288,12175,HYA,Male,White,Left,7.997102,1014
+100898,11977,HYA,Male,White,Left,8.842186,1045
+102041,12139,HYA,Male,White,Left,7.361647,853
+106880,12062,HYA,Male,Black or African American,Left,8.174414,700
+112807,11777,HYA,Male,White,Left,8.096339,999
+114738,11810,HYA,Female,More than one race,Left,7.574006,1061
+118864,11822,HYA,Female,Black or African American,Left,7.134775,727
+21583,11728,HOA,Female,White,Right,7.812475,913
+21593,11736,HOA,Male,White,Right,7.755991,808
+21603,11741,HOA,Female,White,Right,6.592805,794
+21643,11763,HOA,Female,White,Right,7.806687,806
+21646,11765,HOA,Male,White,Right,6.149495,837
+21650,11769,HOA,Female,White,Right,6.879918,938
+21674,11983,HOA,Female,White,Right,6.541736,919
+21705,11789,HOA,Female,White,Right,6.679228,917
+21870,11832,HOA,Male,White,Right,8.053838,752
+21885,11836,HOA,Female,Black or African American,Right,5.930989,765
+21907,11839,HOA,Female,White,Right,5.598422,694
+22044,11883,HOA,Male,White,Right,6.495952,1116
+22051,11889,HOA,Female,Black or African American,Right,6.622402,673
+22194,11926,HOA,Female,White,Right,7.280751,918
+22239,11942,HOA,Female,Black or African American,Right,6.715789,721
+22263,11939,HOA,Female,White,Right,6.022329,912
+22362,11954,HOA,Female,White,Right,9.243132,850
+22386,11961,HOA,Female,White,Right,7.577798,810
+22387,11962,HOA,Female,White,Right,6.252717,978
+22444,11968,HOA,Female,White,Right,7.354179,722
+22445,11969,HOA,Male,White,Right,7.318718,937
+22503,12000,HOA,Male,White,Right,7.307647,909
+22524,12007,HOA,Female,White,Right,5.777815,800
+22791,12084,HOA,Female,Black or African American,Right,8.003132,742
+23133,12163,HOA,Female,Black or African American,Right,8.213277,743
+23145,12169,HOA,Female,Black or African American,Right,7.681959,696
+23222,12225,HOA,Male,White,Right,7.254475,449
+20182,12006,HYA,Female,Hawaiian/Pacific Islander,Right,8.293633,734
+20303,12177,HYA,Male,White,Right,8.263614,975
+20504,12018,HYA,Female,Asian,Right,7.411158,760
+20523,12149,HYA,Female,White,Right,9.489769,992
+20871,12010,HYA,Male,More than one race,Right,9.409697,724
+22036,12086,HYA,Female,More than one race,Right,7.942633,627
+22164,12196,HYA,Female,Asian,Right,8.170196,965
+22192,12090,HYA,Female,Asian,Right,7.638062,1061
+22413,11982,HYA,Female,Black or African American,Right,8.011228,876
+22475,12013,HYA,Female,Black or African American,Right,6.062685,779
+22668,12181,HYA,Male,Asian,Right,7.892731,1094
+23165,12216,HYA,Male,Asian,Right,10.14973,975
+23166,12280,HYA,Female,Asian,Right,6.079036,889
+85162,11958,HYA,Female,White,Right,7.786839,926
+87842,12174,HYA,Male,White,Right,7.411722,1032
+94288,12175,HYA,Male,White,Right,6.868698,1072
+100898,11977,HYA,Male,White,Right,8.734119,1024
+102041,12139,HYA,Male,White,Right,5.642933,881
+106880,12062,HYA,Male,Black or African American,Right,10.030034,411
+112807,11777,HYA,Male,White,Right,7.890497,888
+114738,11810,HYA,Female,More than one race,Right,8.787239,997
+118864,11822,HYA,Female,Black or African American,Right,7.221726,897
